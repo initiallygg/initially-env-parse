@@ -6,7 +6,7 @@ Initially-env-parser is a Node.js library for parsing environment configuration 
 You can install Initially-env-parser via npm:
 
 ```bash
-npm install Initially-env-parser
+npm install initially-env-parser
 ```
 **Usage**
 ```typescript
