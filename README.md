@@ -1,9 +1,9 @@
-# Initially-env-parser
+**initially-env-parser**
 
-Initially-env-parser is a Node.js library for parsing environment configuration files.
+initially-env-parser is a Node.js library for parsing environment configuration files.
 
 **Installation**
-You can install Initially-env-parser via npm:
+You can install initially-env-parser via npm:
 
 ```bash
 npm install initially-env-parser
@@ -11,7 +11,7 @@ npm install initially-env-parser
 **Usage**
 ```typescript
 
-import { parseEnvFile } from 'Initially-env-parser';
+import { parseEnvFile } from 'initially-env-parser';
 
 const env = parseEnvFile();
 console.log(env);

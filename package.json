@@ -1,0 +1,18 @@
+{
+  "name": "initially-env-parser",
+  "version": "1.0.2",
+  "description": "A module for parsing environment files",
+  "main": "dist/envParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["environment", "parser", "config"],
+  "author": "initiallygg",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.17"
+  }
+}
